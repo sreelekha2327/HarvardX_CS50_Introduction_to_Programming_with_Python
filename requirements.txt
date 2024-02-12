@@ -1,0 +1,5 @@
+fpdf2
+fpdf
+fpdf-table
+pandas
+pyarrow

@@ -1,0 +1,4 @@
+hallTicket,fn,ln,eng,maths,sci,ss,cs
+14001A0001,Sree Ram,Malepati,75,86,94,85,76
+14001A0002,Lucy,David,45,78,96,48,75
+
